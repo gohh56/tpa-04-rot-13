@@ -17,7 +17,7 @@ Then visit http://localhost:3000...
 
 もし分かりやすくコードdiffをvisualizeしてくれるようなツールは手元になければ、とりあえず一時的なプルリクエストを作ってみてもいいです。
 
-例えば：https://github.com/bootcamp-tpa/tpa-04-robo-cat-chat/pull/3
+例えば：https://github.com/bootcamp-tpa/tpa-03-robo-cat-chat/pull/3
 
 （とは言いながら、ブランチの違いをこのように見せてくれるようなツールがもしなければ、早めにインストールすることが賢明です。）
 
